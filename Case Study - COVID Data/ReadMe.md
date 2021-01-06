@@ -1,4 +1,4 @@
-#Intro
+# Description
 
 The questions document contains a set of 10 questions which should be answered using Pandas library of Python and by analyzing the Covid dataset provided.
 
@@ -6,7 +6,7 @@ The solutions.py file can be directly executed to get the solutions. I have used
 
 Files description:
 
-covid_19_data.csv       --> Is the dataset we are working on. It has data of covid cases.
-Questions of Covid.docx --> has the questions set
-solutions.py            --> has the solutions using pandas library of Python
+covid_19_data.csv       --> Is the dataset we are working on. It has data of covid cases.<br>
+Questions of Covid.docx --> has the questions set <br>
+solutions.py            --> has the solutions using pandas library of Python <br>
 outputs.pdf             --> Reference file of the outputs we get from solutions.py. Print to pdf of Ipython terminal outputs.
