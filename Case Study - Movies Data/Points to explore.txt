@@ -1,0 +1,16 @@
+1.Calculate the Each movie average rating
+
+2.Present the highest average rating movies list
+
+3. Calculate the each movie rating gender wise
+
+4. What is the most watched movie from the dataset?
+
+5. What are the total number of unique movies in the dataset
+# and how many of them are rated atleast 3 on average
+
+6. how many movies were watched only by male and how many only by female?
+
+7. What is the top 20 rated movies in the age group 20 to 25 and most watched movie for same group
+
+8. Plot a bargraph to know how the users are spread across zipcodes.
